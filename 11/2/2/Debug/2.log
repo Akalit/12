@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\akali\desktop\11\2\2\source.cpp(19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\akali\desktop\11\2\2\source.cpp(22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  2.vcxproj -> C:\Users\Akali\Desktop\11\2\Debug\2.exe
+  2.vcxproj -> C:\Users\Akali\Desktop\11\2\Debug\2.pdb (Partial PDB)
